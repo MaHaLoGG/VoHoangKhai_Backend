@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tienhung-ho/back-end-ctu.git"
+    "url": "git+https://github.com/MaHaLoGG/VoHoangKhai_Backend.git"
   },
-  "author": "Hung Ho",
+  "author": "Khai Vo",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
